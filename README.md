@@ -2,7 +2,7 @@
 
 Building a RESTful API with Node.js, Hapi, and MongoDB
 
-**_Description_**:
+**Description**:
 
 Security is paramount when developing web applications, especially when handling user data and authentication. Node.js, in combination with the Hapi framework, offers a powerful platform for building secure and scalable RESTful APIs. When you add JWT (JSON Web Tokens) authentication and connect to a MongoDB database, you create a robust and flexible solution for protecting your API endpoints and managing user data.
 
