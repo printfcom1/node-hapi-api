@@ -1,0 +1,23 @@
+{
+  "name": "hapi",
+  "version": "1.0.0",
+  "description": "test hapi",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.1",
+    "dotenv": "^16.3.1",
+    "hapi-auth-jwt2": "github:salzhrani/hapi-auth-jwt2#v-17",
+    "hapi-swagger": "^10.0.0",
+    "inert": "^5.1.0",
+    "joi-objectid": "^4.0.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^6.4.6",
+    "vision": "^5.1.0"
+  }
+}
